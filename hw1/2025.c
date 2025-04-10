@@ -1,4 +1,4 @@
-int Main() { 
+int main() { 
     int cd2025 = 5 ;
 	int cd2025_ = 5 ;
   
